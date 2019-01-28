@@ -1,6 +1,6 @@
 import java.util.List;
 
-public class StringMani2 {
+public class StringMani3{
 	
 	public static void main(String args[])
 	{	
